@@ -1,4 +1,6 @@
 #!/bin/bash
+set -x
+
 
 # This is the HardKernel ODROID U2 Kali ARM build script - http://hardkernel.com/main/main.php
 # A trusted Kali Linux image created by Offensive Security - http://www.offensive-security.com
